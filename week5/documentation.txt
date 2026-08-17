@@ -1,0 +1,13 @@
+Week 5 Documentation
+
+1. Why are the variables declared as private?
+Private variables prevent other classes from changing the data directly. This supports encapsulation and gives the class control over how its data is accessed.
+
+2. What happens if the variables are declared public?
+Other classes could access and change the values directly, which reduces control over the object's data.
+
+3. Why do we use getters and setters?
+Getters allow controlled access to data, while setters allow values to be changed through class methods rather than direct field access.
+
+4. Additional programme variable:
+The Student class includes a private programme field with a getter and setter.
